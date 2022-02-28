@@ -1,0 +1,4 @@
+e4t4g@e4t4g:~/Desktop/Backend_Go_2lvl$ kubectl apply -f k8s/ingress.yaml
+ingress.networking.k8s.io/filelist-ing created
+
+
